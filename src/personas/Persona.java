@@ -49,6 +49,4 @@ public abstract class Persona {
     public String toString() {
         return "Persona{" + "nombre=" + nombre + ", identificacion=" + identificacion + ", telefono=" + telefono + ", direccion=" + direccion + '}';
     }
-  
-    
 }
